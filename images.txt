@@ -5,9 +5,11 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 jxxghp/moviepilot
-plexinc/pms-docker
+plexinc/pms-docker:1.40.4.8679-424562606
 lscr.io/linuxserver/jellyfin
 cloudnas/clouddrive2
 mtphotos/mt-photos
 mtphotos/mt-photos-ai
 iyuucn/iyuuplus-dev
+haishanh/yacd
+laoyutang/clash-and-dashboard
