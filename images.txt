@@ -13,3 +13,4 @@ mtphotos/mt-photos-ai
 iyuucn/iyuuplus-dev
 haishanh/yacd
 laoyutang/clash-and-dashboard
+mzz2017/v2raya
