@@ -15,3 +15,5 @@ haishanh/yacd
 laoyutang/clash-and-dashboard
 mzz2017/v2raya
 frooodle/s-pdf:latest
+dreamacro/clash
+haishanh/yacd
